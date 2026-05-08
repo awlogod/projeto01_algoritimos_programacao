@@ -1,0 +1,17 @@
+# Formato: PALAVRA|DICA1|DICA2|DICA3|NIVEL
+# Niveis disponiveis: FACIL, MEDIO, DIFICIL
+ELON MUSK|Magnata de origem sul-africana.|CEO de famosa montadora de carros eletricos.|Fundador da SpaceX e atual dono do X (Twitter).|MEDIO
+STEVE JOBS|Famoso por apresentacoes com gola role preta.|Revolucionou a industria de smartphones.|Cofundador da gigante de tecnologia Apple.|MEDIO
+BILL GATES|Pioneiro na revolucao do software para PCs.|Foi por anos o homem mais rico do mundo.|Cofundador da Microsoft.|FACIL
+JEFF BEZOS|Pioneiro no comercio eletronico de livros nos anos 90.|Fundador da AWS, gigante de computacao em nuvem.|Criador e ex-CEO da Amazon.|MEDIO
+MARK ZUCKERBERG|Programador prodigio de Harvard.|O filme A Rede Social conta sua ascensao.|Criou o Facebook (atual Meta) em seu dormitorio.|DIFICIL
+LUIZA TRAJANO|Grande empresaria brasileira do varejo.|Tia da influenciadora virtual Lu do Magalu.|Lider do Magazine Luiza.|MEDIO
+SILVIO SANTOS|Comecou como camelo nas ruas do Rio de Janeiro.|Conhecido pelo bordao Ma-oee!|Fundador do grupo SBT.|FACIL
+JORGE PAULO LEMANN|Ex-tenista que se tornou um megainvestidor.|Socio na rede Burger King via 3G Capital.|Bilionario brasileiro e cofundador da Ambev.|DIFICIL
+WARREN BUFFETT|O Oraculo de Omaha.|Presidente da Berkshire Hathaway.|Considerado o maior investidor da historia.|MEDIO
+HENRY FORD|Revolucionou a producao industrial com a linha de montagem.|Criou o modelo T, primeiro carro popular.|Fundador da Ford Motor Company.|FACIL
+LARRY PAGE|Estudava doutorado em Stanford quando teve a grande ideia.|Junto com Brin, criou o maior mecanismo de busca.|Cofundador do Google (atual Alphabet).|MEDIO
+OPRAH WINFREY|Superou uma infancia dificil no Mississippi.|Construiu um imperio midiatico do zero.|Uma das apresentadoras de TV mais influentes da historia.|MEDIO
+STEVE WOZNIAK|O genio da engenharia que ficou na sombra do parceiro.|Projetou o primeiro Apple I em sua garagem.|Cofundador da Apple junto com Steve Jobs.|MEDIO
+RICHARD BRANSON|Fundou sua primeira empresa aos 16 anos.|Criou a Virgin Records, a Virgin Atlantic e muito mais.|Excentrico bilionario britanico fundador do grupo Virgin.|DIFICIL
+JACK MA|Reprovado 3 vezes no vestibular de Harvard.|Fundou um imperio a partir de um apartamento na China.|Criador do Alibaba Group.|MEDIO
