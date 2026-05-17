@@ -105,3 +105,35 @@ Sim. O jogo se alinha com diversas demandas:
 - **Plataforma expansível**: a arquitetura com banco de palavras em arquivo externo permite transformar o jogo em uma **plataforma temática** — qualquer professor ou empresa pode criar seus próprios pacotes de palavras (ex: "Cientistas Brasileiros", "Inventores", "Mulheres na Tecnologia").
 - **Potencial para modelo freemium**: pacotes temáticos básicos gratuitos, com pacotes especializados pagos — criando uma oportunidade de **renda passiva** com baixo custo de manutenção.
 - **Estética moderna**: a interface inspirada no Termo/Wordle atrai um público habituado a jogos de palavras modernos, diferenciando-se dos jogos de forca com visual ultrapassado.
+
+---
+
+## Referências e Fontes
+
+### Linguagem e Documentação
+
+- [Documentação oficial do Python](https://docs.python.org/pt-br/3/) — referência para sintaxe, manipulação de arquivos, strings e módulos padrão.
+- [Python - Leitura e escrita de arquivos](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#reading-and-writing-files) — base para a lógica de carregar `palavras.txt` e salvar `resultados.txt`.
+- [Módulo random - Python](https://docs.python.org/pt-br/3/library/random.html) — utilizado para sortear palavras e letras iniciais reveladas.
+- [Módulo time - Python](https://docs.python.org/pt-br/3/library/time.html) — utilizado para registrar data/hora nos resultados.
+
+### Pygame
+
+- [Documentação oficial do Pygame](https://www.pygame.org/docs/) — referência principal para criação da interface gráfica.
+- [Pygame - Módulo freetype](https://www.pygame.org/docs/ref/freetype.html) — utilizado para renderização de texto com fontes do sistema.
+- [Pygame - Módulo draw](https://www.pygame.org/docs/ref/draw.html) — utilizado para desenhar a forca, o boneco e os elementos visuais.
+- [Pygame - Módulo mixer](https://www.pygame.org/docs/ref/music.html) — utilizado para reprodução da música de fundo.
+- [Pygame - Tratamento de eventos](https://www.pygame.org/docs/ref/event.html) — base para captura de teclas e interação com o jogador.
+
+### Tutoriais e Inspiração
+
+- [Real Python - Making a Hangman Game](https://realpython.com/python-hangman/) — tutorial sobre lógica de jogo da forca em Python.
+- [GeeksforGeeks - Hangman Game in Python](https://www.geeksforgeeks.org/hangman-game-python/) — referência para estrutura de controle do jogo.
+- [Termo (term.ooo)](https://term.ooo/) — inspiração para a estética dark mode e o layout de tiles.
+- [Wordle - The New York Times](https://www.nytimes.com/games/wordle/index.html) — inspiração para o conceito de feedback visual por cores nas letras.
+
+### Empreendedorismo e Educação
+
+- [BNCC - Base Nacional Comum Curricular](http://basenacionalcomum.mec.gov.br/) — referência sobre competências de cultura digital e empreendedorismo na educação.
+- [SEBRAE - Educação Empreendedora](https://sebrae.com.br/sites/PortalSebrae/educacaoempreendedora) — contexto sobre programas de empreendedorismo nas escolas.
+- [Forbes - Bilionários do Mundo](https://forbes.com.br/listas/bilionarios-do-mundo/) — fonte para pesquisa sobre os empresários utilizados no banco de palavras.
